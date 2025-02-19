@@ -31,6 +31,7 @@ cs:
   Jobs: Úkoly
   Kill: Zabít
   LastRetry: Poslední opakování
+  Latency: Latence
   LivePoll: Průběžně aktualizovat
   MemoryUsage: Využití paměti
   Namespace: Jmenný prostor
